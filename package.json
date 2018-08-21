@@ -5,7 +5,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
   },
-  "homepage": "http://socialists-space.github.io/southern-caucus-static-site",
+  "homepage": "https://dsasoutherncaucus.org",
   "private": true,
   "scripts": {
     "start": "react-scripts start",

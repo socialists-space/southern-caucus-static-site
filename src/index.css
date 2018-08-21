@@ -1,5 +1,26 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+/* Helpers */
+.align-c      { text-align: center }
+.dsa-red      { color: rgb(255,10,28) }
+.full         { width: 100% }
+.mb1          { margin-bottom: 1rem }
+.mb2          { margin-bottom: 2rem }
+.pointer      { cursor: pointer }
+.small-caps   { font-variant: small-caps }
+.text-medium  { font-size: medium }
+.text-xlarge  { font-size: x-large }
+
+/* Site Specific */
+html, body {
+    background-color: #222;
+    color: #ddd;
+}
+
+li {
+    margin-left: 3rem;
+}
+
+a.button {
+    color: #ddd;
+    display: inline-block;
+    width: 100%;
 }
